@@ -15,15 +15,15 @@
         </td>
         <td>
             <p>Game capture 2</p>
-            <img alt="capture1" src="/Assets/GameCapture1.PNG">
+            <img alt="capture2" src="/Assets/GameCapture2.PNG">
         </td>
         <td>
             <p>Game capture 3</p>
-            <img alt="capture1" src="/Assets/GameCapture1.PNG">
+            <img alt="capture3" src="/Assets/GameCapture3.PNG">
         </td>
         <td>
             <p>Game capture 4</p>
-            <img alt="capture1" src="/Assets/GameCapture1.PNG">
+            <img alt="capture4" src="/Assets/GameCapture4.PNG">
         </td>
     </tr>
 </table>
